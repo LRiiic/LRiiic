@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil! 👋
-#### Olá, sou Luiz Ricardo, tenho 20 anos, me situo na área de TI, em desenvolvimento web, criação de protótipos e layouts de sistemas. Graduado no curso de Análise e Desenvolvimento de Sistemas pela Uninove Memorial em 2021/01 e Formado no curso Técnico de Informática pela ETEC Guaianazes em 2018/02. Focando atualmente em desenvolvimento Front-End. Espero que gostem ods projetos apresentados.
+#### Olá, sou Luiz Ricardo, tenho 20 anos, me situo na área de TI, em desenvolvimento web, criação de protótipos e layouts de sistemas. Graduado no curso de Análise e Desenvolvimento de Sistemas pela Uninove Memorial em 2021/01 e Formado no curso Técnico de Informática pela ETEC Guaianazes em 2018/02. Focando atualmente em desenvolvimento Front-End. Espero que gostem dos projetos apresentados.
 
 <div>
   <a href="https://github.com/LRiiic">
